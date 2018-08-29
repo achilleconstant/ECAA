@@ -1,5 +1,5 @@
 # Ethereum Community Action for Africa
-![Ethereum-Community-Action-For-Africa](https://github.com/wimel/Ethereum-Community-Action-for-Africa/blob/master/images/ECAfA.jpg)
+![Ethereum-Community-Action-For-Africa](https://github.com/wimel/Ethereum-Community-Action-for-Africa/blob/master/images/g12.png)
 
 ## This repository contains a small base to help create a website for the community of Ethereum in Burkina-Fasso, feel free to modify the content as you like.
 
